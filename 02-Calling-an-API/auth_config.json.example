@@ -1,5 +1,5 @@
 {
-  "domain": "{DOMAIN}",
-  "clientId": "{CLIENT_ID}",
-  "audience": "{API_IDENTIFIER}"
+  "domain": "dev-pxl.auth0.com",
+  "clientId": "5PL3Y9IVxL6qkmfZKIkHQlZDQbvQzfF7",
+  "audience": "https://pxl-auth0-api-bzbzcqeyamf5emgp.swedencentral-01.azurewebsites.net"
 }
