@@ -9,8 +9,8 @@
     "helmet": "^3.23.3",
     "morgan": "^1.10.0",
     "jsonwebtoken": "^9.0.2"
-  }
-}
+  
+
   },
   "devDependencies": {
     "nodemon": "^2.0.19",
